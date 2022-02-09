@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdul-wahab-shahzad
-- 👀 I’m interested in Full stack developmeny
-- 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on Web based Projects
+- 👀 I’m interested in Data Science and Game design
+- 🌱 I’m currently learning basics of Data science
+- 💞️ I’m looking to collaborate on DATA sCIENCE PROJECTS Projects
 - 📫 How to reach me ...
 
 <!---
