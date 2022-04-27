@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abdul-wahab-shahzad
-- 👀 I’m interested in Data Science and Game design
-- 🌱 I’m currently learning basics of Data science
-- 💞️ I’m looking to collaborate on DATA sCIENCE PROJECTS Projects
+- 👋 Hi, I’m @Abdul-wahab-shahzad.
+- 👀 I’m interested in Backend development and Machine Learning.
+- 🌱 I’m currently learning Django (rest framework)
+- 💞️ I’m looking to collaborate on diffrent Software engineering Project
 - 📫 How to reach me ...
 
 <!---
