@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul-wahab-shahzad.
 - 👀 I’m interested in Backend development and Machine Learning.
-- 🌱 I’m currently learning Django (rest framework)
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on diffrent Software engineering Project
 - 📫 How to reach me ...
 
